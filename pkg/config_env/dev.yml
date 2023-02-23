@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  timeout: 60
+service:
+  endpoint: "api"
+  name: "go-demo-project"
